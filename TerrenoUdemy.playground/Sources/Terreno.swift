@@ -2,9 +2,9 @@ import Foundation
 
 //terreno
 
-class Terreno {
+public class Terreno {
     
-    static func test1() {
+    public static func test1() {
         
         let largura = 10.0
         let comprimento = 30.0
@@ -18,7 +18,7 @@ class Terreno {
       
     }
     
-    static func test2() {
+    public static func test2() {
         
         let largura = 12.0
         let comprimento = 20.0
